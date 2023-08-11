@@ -22,4 +22,4 @@ I am an MIIS Student at [Language Technologies Institute](https://lti.cs.cmu.edu
 
 My research interests are on the intersection of text mining, graph mining, and multimodal information retrieval. My primary goal is to enhance NLP models by effectively leveraging heterogeneous external knowledge (text corpus, web tables, knowledge graphs) to generate coherent and informative answers. Currently, I am focusing on mitigating the hallucinations from large language models to solve challenging reasoning tasks such as multi-hop question answering and multimodal misinformation detection. 
 
-I am huge fan of accoustic guitar 🎸 and basketball 🏀. I have been practicing both of them for almost ten years. I also enjoying singing 🎤 privately during my free time.(I wish I had more time on learning new songs 🎶 recently.)
+I am huge fan of accoustic guitar 🎸 and basketball 🏀. I have been practicing both of them for almost ten years. I also enjoying singing 🎤 privately during my free time. (I wish I had more time on learning new songs 🎶 recently.)
