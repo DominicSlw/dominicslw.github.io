@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: First-Year MIIS Student, Language Technologies Institute, Carnegie Mellon University.
+subtitle: 
 
 profile:
   align: right
@@ -13,13 +13,13 @@ profile:
     <p>Pittsburgh, PA 15213</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an MIIS Student at [Language Technologies Institute](https://lti.cs.cmu.edu/) (LTI), Carnegie Mellon University (CMU). I graduated from [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) in May 2023 with a Bachelor of Science degree in Computer Science and Mathematics (with [Highest Honors](https://cs.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award)). During my undergraduate, I was very fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/) at [Data Mining Group](http://dm1.cs.uiuc.edu/)(DMG). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are on the intersection of text mining, graph mining, and multimodal information retrieval. My primary goal is to enhance NLP models by effectively leveraging heterogeneous external knowledge (text corpus, web tables, knowledge graphs) to generate coherent and informative answers. Currently, I am focusing on mitigating the hallucinations from large language models to solve challenging reasoning tasks such as multi-hop question answering and multimodal misinformation detection. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am huge fan of accoustic guitar 🎸 and basketball 🏀. I have been practicing both of them for almost ten years. I also enjoying singing 🎤 privately during my free time. (I wish I had more time on learning new songs 🎶 recently.)
