@@ -9,6 +9,7 @@ profile:
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>GHC 6415,</p>
     <p>5000 Forbes Avenue</p>
     <p>Pittsburgh, PA 15213</p>
 
@@ -22,4 +23,4 @@ I am an MIIS Student at [Language Technologies Institute](https://lti.cs.cmu.edu
 
 My research interests are on the intersection of text mining, graph mining, and multimodal information retrieval. My primary goal is to enhance NLP models by effectively leveraging heterogeneous external knowledge (text corpus, web tables, knowledge graphs) to generate coherent and informative answers. Currently, I am focusing on mitigating the hallucinations from large language models to solve challenging reasoning tasks such as multi-hop question answering and multimodal misinformation detection. 
 
-Apart from academic aspirations, I am a huge fan of acoustic guitar 🎸 and basketball 🏀. I have been practicing both for almost ten years. I also enjoy singing 🎤 privately during my free time. (I wish I had more time on learning new songs 🎶 recently.) 
+Apart from academic aspirations, I am a huge fan of acoustic guitar 🎸 and basketball 🏀. I have been practicing both for almost ten years. If you are going to visit CMU, please let me sing 🎤 for you with my guitar. (I wish I had more time learning new songs 🎶 recently.) 
