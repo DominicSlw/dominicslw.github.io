@@ -9,7 +9,7 @@ profile:
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>GHC 6415,</p>
+    <p>GHC 6404,</p>
     <p>5000 Forbes Avenue</p>
     <p>Pittsburgh, PA 15213</p>
 

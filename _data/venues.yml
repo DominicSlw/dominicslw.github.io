@@ -1,3 +1,7 @@
 "ArXiv":
   url: https://arxiv.org/
   color: "#497174"
+
+"CONF-CDS":
+  url: https://www.confcds.org/
+  color: "#497174"
