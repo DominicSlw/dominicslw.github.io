@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the Bronze Tablet Award for my graduation! 🔥
+Received the Bronze Tablet Award and Summa Cum Laude for my graduation! 🔥
