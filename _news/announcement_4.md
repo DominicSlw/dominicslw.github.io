@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started grad school program at CMU and Join Prof. Xiong's research group! 📚
+Started grad school program at CMU and Joined Prof. Xiong's research group! 📚
