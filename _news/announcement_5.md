@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published my first paper at ICML 2024 and saw you at Vienna!🤖👨‍⚕️
+Published my first paper at ICML 2024 and saw you in Vienna!🤖👨‍⚕️
