@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-6-23 9:30:00-0400
+date: 2025-2-14 9:30:00-0400
 inline: true
 related_posts: false
 ---
 
-Started my internship as a Machine Learning Engineer with the Recommendation Core Team at TikTok's Data Plus Group! <img src="/assets/img/tiktok_log.png" alt="logo" width="25"/>
+Received my PhD admission letter from CMU LTI! Thank you CMU! <img src="/assets/img/CMU_log.jpeg" alt="logo" width="20"/>

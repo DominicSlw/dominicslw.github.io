@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-9-8 9:30:00-0400
+date: 2024-6-23 9:30:00-0400
 inline: true
 related_posts: false
 ---
 
-Started grad school program at CMU and joined Prof. Xiong's research group! 📚
+Started my internship as a Machine Learning Engineer with the Recommendation Core Team at TikTok's Data Plus Group! <img src="/assets/img/tiktok_log.png" alt="logo" width="25"/>
