@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-10 9:30:00-0400
+date: 2024-2-14 9:30:00-0400
 inline: true
 related_posts: false
 ---
 
-Published one paper at NeurIPS 2024 GenAI4Health Workshop and NAACL 2025 main conference!
+Received my PhD admission letter from CMU LTI! Thank you CMU! <img src="/assets/img/CMU_log.jpeg" alt="logo" width="20"/>

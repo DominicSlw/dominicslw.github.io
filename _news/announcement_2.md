@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-07-05 09:35:00-0400
+date: 2023-2-23 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Received the Bronze Tablet Award and Summa Cum Laude for my graduation! 🔥
+Received my admission letter from CMU LTI! Thank you CMU! <img src="/assets/img/CMU_log.jpeg" alt="logo" width="20"/>
