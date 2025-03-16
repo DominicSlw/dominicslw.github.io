@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-2-27 9:30:00-0400
+date: 2025-2-14 9:30:00-0400
 inline: true
 related_posts: false
 ---
 
-Received my internship offer as an Applied Scientist with Amazon’s AI Healthcare Team! 🍌
+Received my PhD admission letter from CMU LTI! Thank you CMU! <img src="/assets/img/CMU_log.jpeg" alt="logo" width="20"/>

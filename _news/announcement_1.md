@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-07-05 09:35:00-0400
+date: 2023-5-13 9:30:00-0400
 inline: true
 related_posts: false
 ---
 
-Received the Bronze Tablet Award and Summa Cum Laude for my graduation at UIUC! 🔥
+Graduated from CS@ILLINOIS with Bachelor of Science degree and full GPA of 4.0 / 4.0! 🎓
